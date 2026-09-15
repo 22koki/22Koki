@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Wahome 👋
 
-<!--
-**22koki/22Koki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Backend Developer | Software Enthusiast
 
-Here are some ideas to get you started:
+I build web applications, backend systems, APIs, database-driven platforms, and interactive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating practical software solutions, working with databases, and developing scalable applications from frontend to backend.
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- Dart
+- PHP
+- HTML
+- CSS
+- SQL
+- 
+
+### Frontend & Mobile
+- React
+- Flutter
+- Vue
+
+### Backend
+- Django
+- Flask
+- RESTful APIs
+- CRUD Applications
+
+### Databases
+- MySQL
+- PostgreSQL
+- SQL
+- Database Design & Management
+
+### Game Development
+- Godot
+
+### Development Tools & Practices
+- Git
+- GitHub
+- Agile / Scrum
+- API Development
+- Database Integration
+- Testing & Debugging
