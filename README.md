@@ -1,42 +1,47 @@
 # Hi, I'm Wahome 👋
 
-**Full-Stack Developer · Python / Django · React · APIs · Product Builder**
+### Full-Stack Developer | Backend Developer | Software Enthusiast
 
-I build practical, database-driven applications, from booking and payment workflows to interactive educational tools and games. I enjoy turning ideas into usable products, designing clear interfaces, and making backend systems reliable.
+I build web applications, backend systems, APIs, database-driven platforms, and interactive applications.
 
-## Featured projects
+I enjoy creating practical software solutions, working with databases, and developing scalable applications from frontend to backend.
 
-| Project | What I'm building | Technologies |
-| --- | --- | --- |
-| [Spa Management](https://github.com/22koki/Spa_Management) | Spa booking, staff scheduling, client management, and payments | Django, React |
-| [Restaurant Automation](https://github.com/22koki/Restaurant-_Automation_systm) | Restaurant operations, orders, inventory, and reporting | Django REST Framework, React |
-| [Plant Doctor AR](https://github.com/22koki/Plant_DR) | Image-assisted plant-health analysis and educational guidance | Python, Django, React |
-| [One Minute From Earth](https://github.com/22koki/One_Min_From_Earth) | Interactive travel discovery with a digital passport | React, Vite |
-| [Tiny Ghost Hotel](https://github.com/22koki/tiny-ghost-hotel) | Cozy-creepy hotel management game | Godot, GDScript |
-| [Property Management](https://github.com/22koki/property_managment_system) | Property and tenant administration workflows | Python, Flask |
+## 🛠️ Tech Stack
 
-## Tech stack
+### Languages
+- JavaScript
+- Python
+- Dart
+- PHP
+- HTML
+- CSS
+- SQL
+- 
 
-**Languages:** Python, JavaScript, Dart, PHP, SQL, HTML, CSS
+### Frontend & Mobile
+- React
+- Flutter
+- Vue
 
-**Frontend and mobile:** React, Flutter, Vue
+### Backend
+- Django
+- Flask
+- RESTful APIs
+- CRUD Applications
 
-**Backend:** Django, Django REST Framework, Flask, REST APIs
+### Databases
+- MySQL
+- PostgreSQL
+- SQL
+- Database Design & Management
 
-**Databases:** PostgreSQL, MySQL, relational data modeling
+### Game Development
+- Godot
 
-**Tools and practices:** Git, GitHub, Agile/Scrum, automated testing, debugging, Godot
-
-## What I'm focusing on
-
-- Reliable full-stack business applications
-- Better testing, documentation, and deployment practices
-- Accessible, responsive user experiences
-- Open-source collaboration and code review
-
-## Explore my work
-
-Browse my [repositories](https://github.com/22koki?tab=repositories) for source code and project documentation. Individual projects may be in different stages of development; check their READMEs for current status and setup instructions.
-
----
-*Building useful software, one thoughtful improvement at a time.*
+### Development Tools & Practices
+- Git
+- GitHub
+- Agile / Scrum
+- API Development
+- Database Integration
+- Testing & Debugging
